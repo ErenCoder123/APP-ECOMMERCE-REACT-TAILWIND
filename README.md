@@ -198,7 +198,34 @@ Ao cadastrar (`/cadastro`) ou editar (`/editar/:id`) um item, as seguintes regra
 - `useMemo`: Filtragem e ordenação inteligente de produtos na home sem causar re-renderizações desnecessárias.
 - `useFetch` (Hook Customizado): Encapsulamento da lógica de requisição HTTP, estados de erro e carregamento (*loading*).
 
+Tela inicial (Home) com a listagem de produtos
 <img width="1913" height="943" alt="image" src="https://github.com/user-attachments/assets/f0ae3768-47dc-4903-81f8-06560ce6f09f" />
+
+Página de detalhes de um produto
+<img width="1916" height="944" alt="image" src="https://github.com/user-attachments/assets/e1167f52-017c-4d28-b9de-c3db1008665d" />
+
+Cadastro de produto: formulário preenchido corretamente
+<img width="1917" height="938" alt="image" src="https://github.com/user-attachments/assets/825179ba-5838-46ef-adb7-84cc86d1746a" />
+
+Cadastro de produto: exemplo de validação com erro exibido
+<img width="1909" height="881" alt="image" src="https://github.com/user-attachments/assets/8159daf4-ad80-46c4-be54-4a98e4bef1b6" />
+
+Edição de um produto existente
+<img width="1912" height="950" alt="image" src="https://github.com/user-attachments/assets/b7e1b65c-a7dc-4733-8e25-dfb0bf548069" />
+
+Carrinho com itens adicionados
+<img width="1916" height="940" alt="image" src="https://github.com/user-attachments/assets/ba858a24-34a3-4eae-8021-28e0e9d49213" />
+
+Carrinho exibindo a mensagem de estoque máximo atingido
+<img width="1918" height="950" alt="image" src="https://github.com/user-attachments/assets/d599ecf7-c27e-421e-8806-15a814ef8f4f" />
+
+Erro 404
+<img width="1916" height="949" alt="image" src="https://github.com/user-attachments/assets/ae3b5d2b-9aa4-427d-942f-54a9b2086639" />
+
+
+
+
+
 
 
 ---
