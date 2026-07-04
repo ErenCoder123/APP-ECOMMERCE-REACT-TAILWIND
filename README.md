@@ -200,27 +200,5 @@ Ao cadastrar (`/cadastro`) ou editar (`/editar/:id`) um item, as seguintes regra
 
 ---
 
-## Screenshots
-
-Abaixo estão ilustradas as capturas de tela mockadas da aplicação com o tema retrô da **RetroVault**:
-
-### 1. Tela Inicial (Home) — Catálogo de Jogos Retrô
-A página principal exibe o catálogo completo em um grid responsivo estilizado. Inclui filtros por categoria, ordenação e a seção Hero com botões de ação rápidos.
-![Tela Inicial da RetroVault](public/screenshots/screenshot_home.png)
-
-### 2. Página de Detalhes de um Jogo
-Exibe a ficha técnica do item clássico, preço destacado, contagem de estoque e botões de ação (Adicionar ao Carrinho, Editar Jogo e Excluir Jogo).
-![Página de Detalhes do Produto](public/screenshots/screenshot_details.png)
-
-### 3. Carrinho de Compras
-Lista os itens adicionados, os botões de incremento (travando no estoque) e o botão para finalizar compra.
-![Carrinho de Compras da RetroVault](public/screenshots/screenshot_cart.png)
-
-### 4. Formulário de Cadastro / Validação de Erros
-Demonstra a inserção de novos produtos no banco e as validações visuais com as bordas em vermelho e mensagens de orientação.
-![Formulário de Cadastro com Validação de Erros](public/screenshots/screenshot_form.png)
-
----
-
 ## Licença
 Desenvolvido como projeto acadêmico para simulação de e-commerce moderno e dinâmico com React.
