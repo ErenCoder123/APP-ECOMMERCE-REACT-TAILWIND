@@ -222,6 +222,14 @@ Carrinho exibindo a mensagem de estoque máximo atingido
 Erro 404
 <img width="1916" height="949" alt="image" src="https://github.com/user-attachments/assets/ae3b5d2b-9aa4-427d-942f-54a9b2086639" />
 
+Páginas de Login e Home com conta logada
+
+<img width="1915" height="946" alt="image" src="https://github.com/user-attachments/assets/01fad99e-78b4-4b54-a116-bba8ff547350" />
+
+<img width="1916" height="944" alt="image" src="https://github.com/user-attachments/assets/94a023db-8f70-433a-aa33-09d97779b73e" />
+
+
+
 
 
 
