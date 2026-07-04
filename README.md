@@ -1,4 +1,4 @@
-# 🎮 RetroVault — E-Commerce de Jogos Retrô
+<img width="1913" height="943" alt="image" src="https://github.com/user-attachments/assets/fb630753-4000-4dc4-b8ba-b3e6e90b0032" /># 🎮 RetroVault — E-Commerce de Jogos Retrô
 
 Uma aplicação frontend em React simulando um e-commerce de consoles, cartuchos e acessórios de jogos retrô clássicos. Conta com carrinho de compras integrado, controle estrito de estoque, validações com focagem inteligente nos formulários e um CRUD completo público para facilidade de avaliação.
 
@@ -197,6 +197,9 @@ Ao cadastrar (`/cadastro`) ou editar (`/editar/:id`) um item, as seguintes regra
 - `useRef`: Armazenamento de referências diretas do DOM para os inputs de formulário para possibilitar o foco do primeiro erro.
 - `useMemo`: Filtragem e ordenação inteligente de produtos na home sem causar re-renderizações desnecessárias.
 - `useFetch` (Hook Customizado): Encapsulamento da lógica de requisição HTTP, estados de erro e carregamento (*loading*).
+
+<img width="1913" height="943" alt="image" src="https://github.com/user-attachments/assets/f0ae3768-47dc-4903-81f8-06560ce6f09f" />
+
 
 ---
 
