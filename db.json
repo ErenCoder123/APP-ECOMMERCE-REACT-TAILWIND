@@ -1,0 +1,90 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "nome": "Console Super Nintendo (SNES) Clássico",
+      "descricao": "Console clássico Super Nintendo original de época, higienizado, revisado e funcionando perfeitamente. Acompanha 1 controle original, cabo AV e fonte de alimentação bivolt. Reviva a era de ouro dos 16-bits!",
+      "preco": 799.90,
+      "imagem": "https://images.unsplash.com/photo-1531525645387-7f14be1bdbbd?w=500&h=500&fit=crop",
+      "estoque": 2,
+      "categoria": "Consoles"
+    },
+    {
+      "id": "2",
+      "nome": "Chrono Trigger - Cartucho SNES",
+      "descricao": "Cartucho original (Label americana) de um dos maiores RPGs de todos os tempos. Salvando bateria 100% testada. Item indispensável para colecionadores exigentes.",
+      "preco": 499.90,
+      "imagem": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=500&h=500&fit=crop",
+      "estoque": 3,
+      "categoria": "RPGs"
+    },
+    {
+      "id": "3",
+      "nome": "Super Mario World - Cartucho SNES",
+      "descricao": "O clássico supremo do Super Nintendo. Cartucho nacional Gradiente, higienizado e com contatos polidos. Funcionamento de primeira para muitas horas de diversão.",
+      "preco": 179.90,
+      "imagem": "https://images.unsplash.com/photo-1605899435973-ca2d1a8861cf?w=500&h=500&fit=crop",
+      "estoque": 10,
+      "categoria": "Plataforma"
+    },
+    {
+      "id": "4",
+      "nome": "Console Sega Mega Drive + 2 Controles",
+      "descricao": "Console clássico da SEGA com 2 controles de 3 botões. Acompanha cabo RF e fonte. Testado e funcionando, pronto para rodar seus cartuchos do Sonic! (Edição TecToy).",
+      "preco": 649.90,
+      "imagem": "https://images.unsplash.com/photo-1526509867162-5b0c0d1b5b35?w=500&h=500&fit=crop",
+      "estoque": 0,
+      "categoria": "Consoles"
+    },
+    {
+      "id": "5",
+      "nome": "Sonic the Hedgehog - Cartucho Mega Drive",
+      "descricao": "O jogo que definiu o Mega Drive. Cartucho em ótimo estado estético, original TecToy. Velocidade e diversão pura com o ouriço mais famoso do mundo.",
+      "preco": 149.90,
+      "imagem": "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=500&h=500&fit=crop",
+      "estoque": 15,
+      "categoria": "Plataforma"
+    },
+    {
+      "id": "6",
+      "nome": "The Legend of Zelda: Ocarina of Time - Cartucho N64",
+      "descricao": "A obra-prima tridimensional do Nintendo 64. Cartucho cinza clássico, salvando progresso perfeitamente. Label original em excelente estado de conservação.",
+      "preco": 299.90,
+      "imagem": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=500&h=500&fit=crop",
+      "estoque": 4,
+      "categoria": "Aventura & RPG"
+    },
+    {
+      "id": "7",
+      "nome": "Castlevania: Symphony of the Night - CD PS1",
+      "descricao": "Mídia física original (Black Label americana) de um dos maiores clássicos do PlayStation 1. CD com pouquíssimos riscos superficiais, completo com manual e encartes originais.",
+      "preco": 899.90,
+      "imagem": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=500&h=500&fit=crop",
+      "estoque": 1,
+      "categoria": "Ação & Aventura"
+    },
+    {
+      "id": "8",
+      "nome": "Controle Original Super Nintendo (SNES)",
+      "descricao": "Controle clássico original do Super Nintendo com fio cinza padrão. Botões macios, borrachas condutivas novas de alta qualidade. Perfeito para jogar sem lag.",
+      "preco": 129.90,
+      "imagem": "https://images.unsplash.com/photo-1592840496694-26d035b52b48?w=500&h=500&fit=crop",
+      "estoque": 8,
+      "categoria": "Acessórios"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "Administrador",
+      "email": "admin@loja.com",
+      "senha": "admin123"
+    },
+    {
+      "id": "2",
+      "nome": "Maria Colecionadora",
+      "email": "maria@email.com",
+      "senha": "123456"
+    }
+  ]
+}
